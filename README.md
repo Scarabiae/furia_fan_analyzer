@@ -1,0 +1,1 @@
+# furia_fan_analyzer
